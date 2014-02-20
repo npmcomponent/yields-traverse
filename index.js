@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var matches = require('matches-selector');
+var matches = require('component-matches-selector');
 
 /**
  * Traverse with the given `el`, `selector` and `len`.

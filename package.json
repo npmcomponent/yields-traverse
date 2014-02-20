@@ -1,0 +1,14 @@
+{
+  "name": "yields-traverse",
+  "description": "low level traverse function, inspired by $.dir.",
+  "version": "0.1.1",
+  "keywords": [
+    "traverse",
+    "dir"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-matches-selector": "git://github.com/npmcomponent/component-matches-selector.git"
+  },
+  "license": "MIT"
+}
